@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Pricing corrected to $0.90 / 1,000 products ($0.0009 each) in the README.
+
 ## 0.1.0
 
 - Initial release.
