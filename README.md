@@ -54,7 +54,7 @@ A free Apify account includes monthly usage credits.
 
 ## Pricing
 
-Billed per product through Apify (pay-per-event): **$3 / 1,000 products** ($0.003 each).
+Billed per product through Apify (pay-per-event): **$0.90 / 1,000 products** ($0.0009 each).
 
 ## Use cases
 
