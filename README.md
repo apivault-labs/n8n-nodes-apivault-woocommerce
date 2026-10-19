@@ -76,3 +76,16 @@ Billed per product through Apify (pay-per-event): **$0.9 / 1,000 products** ($0.
 ## Keywords
 
 `woocommerce-scraper` `product-scraper` `ecommerce` `price-monitoring` `shopify-migration` `google-merchant` `dropshipping` `catalog-export` `n8n` `apify`
+
+<!-- apivault-integrations:start -->
+## Hosted Actor and integrations
+
+- [Run WooCommerce Scraper — Bulk Products & CSV API on Apify](https://apify.com/apivault_labs/woocommerce-product-scraper).
+- [Current pricing and usage terms](https://apify.com/apivault_labs/woocommerce-product-scraper/pricing).
+- [n8n community package: n8n-nodes-apivault-woocommerce](https://www.npmjs.com/package/n8n-nodes-apivault-woocommerce).
+- [Python client](https://github.com/apivault-labs/apivault-labs/tree/main/python-clients/apivault-woocommerce-product-scraper).
+- [Python client](https://github.com/apivault-labs/woocommerce-scraper-python).
+- [n8n source and usage](https://github.com/apivault-labs/apivault-labs/tree/main/community-nodes/n8n-nodes-apivault-woocommerce).
+
+An Apify account and API token are required. Hosted Actor/platform charges apply. npm publication is not n8n verification or confirmation of n8n Cloud availability.
+<!-- apivault-integrations:end -->
